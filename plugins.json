@@ -1,1 +1,10 @@
-[{"projectUrl":"https://discord.gg/OpenOSRS","provider":"OpenOSRS","name":"Blackjack","description":"Allows for one-click blackjacking, both knocking out and pickpocketing","id":"blackjack-plugin","releases":[{"date":"2020-02-08","sha512sum":"4BCE2576708D4201EDCF2056F139C60419F216113597BD01DE0263330725CB146D47957733FF09A2F24A9E9BC08439AF42D1948F7305EA6906BA965596688A7A","version":"0.0.4","url":"https://github.com/ilvaluta/josh/blob/master/release/blackjack-0.0.4.jar?raw=true","requires":"0.0.1"}]}]
+[
+    {
+        "projectUrl":"Josh","provider":"Josh",
+        "name":"Blackjack",
+        "description":"Allows for one-click blackjacking, both knocking out and pickpocketing",
+        "id":"blackjack-plugin",
+        "releases":[{"date":"2020-02-08","sha512sum":"16856ec50877185af4fcd76a457358e39ca7debe516843246a6198de77582b58bb32ef2c17855e4f999237d6ed648aa7f13cac606eabfa1b4d8669b6cefacbaa",
+            "version":"0.0.4",
+            "url":"https://github.com/ilvaluta/josh/blob/master/release/blackjack-0.0.4.jar?raw=true",
+            "requires":"0.0.1"}]}]
